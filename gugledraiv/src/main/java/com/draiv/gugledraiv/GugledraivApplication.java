@@ -8,6 +8,7 @@ public class GugledraivApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GugledraivApplication.class, args);
+                System.out.println("Hola");
 	}
 
 }
